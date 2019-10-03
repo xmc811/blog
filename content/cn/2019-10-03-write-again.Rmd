@@ -1,0 +1,10 @@
+---
+title: 再写
+author: 明储
+date: '2019-10-03'
+slug: write-again
+categories:
+  - 中文
+tags: ["Life"]
+---
+上一次写博客，似乎已经是十年前。

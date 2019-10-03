@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文 on The Space of Life</title>
+    <link>/categories/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on The Space of Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>再写</title>
+      <link>/cn/write-again/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/write-again/</guid>
+      <description>上一次写博客，似乎已经是十年前。</description>
+    </item>
+    
+  </channel>
+</rss>

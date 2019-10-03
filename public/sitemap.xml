@@ -8,22 +8,37 @@
   </url>
   
   <url>
+    <loc>/cn/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/ein-soldatenlied/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/english/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/hugo/</loc>
+    <loc>/tags/life/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>/tags/music/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,98 +48,18 @@
   </url>
   
   <url>
-    <loc>/post/2019/10/03/three-kingdoms/</loc>
+    <loc>/categories/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2019/10/03/three/</loc>
+    <loc>/cn/write-again/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2017-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/note/2017/06/14/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/example/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/note/2017/06/13/a-quick-note/</loc>
-    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2016/02/14/a-plain-markdown-post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/blogdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mathjax/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pandoc/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rstudio/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015/07/23/hello-r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015/07/23/lorem-ipsum/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
